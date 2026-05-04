@@ -71,13 +71,31 @@ Desarrollo de soluciones basadas en inteligencia artificial y machine learning, 
 
 ---
 
-## 📊 Estadísticas GitHub
+## 📊 Estadísticas & Logros
 
 <div align="center">
 
-<a href="https://github.com/Baxone" target="_blank">
-  <img src="https://github-stats.com/api?username=Baxone&theme=nord" alt="GitHub Stats" style="max-width: 100%;">
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baxone&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baxone&theme=tokyonight&layout=compact&langs_count=8&hide_border=false)
+
+</div>
+
+### 🏆 Especialidades & Experiencia
+
+<div align="center">
+
+![Full Stack](https://img.shields.io/badge/Full%20Stack%20Developer-15%2B%20años-blue?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science%20Engineer-Expert-green?style=for-the-badge)
+![AI Solutions](https://img.shields.io/badge/AI%20Solutions-Advanced-purple?style=for-the-badge)
+
+![JavaScript Expertise](https://img.shields.io/badge/JavaScript%20Expertise-Advanced-F7DF1E?style=flat-square&logo=javascript)
+![Python Expertise](https://img.shields.io/badge/Python%20Expertise-Advanced-3776AB?style=flat-square&logo=python)
+![React Expertise](https://img.shields.io/badge/React%20Expertise-Advanced-61DAFB?style=flat-square&logo=react)
+![Node.js Expertise](https://img.shields.io/badge/Node.js%20Expertise-Advanced-339933?style=flat-square&logo=node.js)
+
+![Active Educator](https://img.shields.io/badge/Active%20Educator-Community-red?style=flat-square)
+![Open Source Contributor](https://img.shields.io/badge/Open%20Source%20Contributor-Active-green?style=flat-square)
 
 </div>
 
