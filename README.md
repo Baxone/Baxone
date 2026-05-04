@@ -1,16 +1,16 @@
 <!-- Header profesional -->
 <div align="center">
 
-# 👨‍💻 Juan Antonio Pérez Jarillo
+<img src="https://avatars.githubusercontent.com/u/537247?v=4" alt="Juan Antonio Pérez Jarillo" width="120" height="120" style="border-radius: 50%;">
+
+# Juan Antonio Pérez Jarillo
 
 ### Full Stack Web Developer | Data Science Engineer | AI Engineer
 
-*Madrid 🇪🇸 | Specialized in Web Development, Data Analysis & AI Solutions*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/juanantonioperezjarillo)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/10MinutosProgramando)
-[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/labsdev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:baxone@gmail.com)
+<a href="https://es.linkedin.com/in/juanantonioperezjarillo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.youtube.com/c/10MinutosProgramando" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://twitter.com/JLabsdev" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter/X"></a>
+<a href="mailto:baxone@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
@@ -18,9 +18,9 @@
 
 ## 🎯 Acerca de Mí
 
-Soy un **ingeniero full stack apasionado** con expertise en desarrollo web, análisis de datos e inteligencia artificial. Combino **sólidos conocimientos en arquitectura backend** con **experiencia moderna en frontend frameworks**. 
+Soy **ingeniero full stack** especializado en desarrollo web, análisis de datos e inteligencia artificial. Me encanta unir lo mejor de dos mundos: la solidez de una buena arquitectura backend con el dinamismo de los frameworks modernos de frontend.
 
-Además de mi actividad profesional, soy **educador activo** en la comunidad tech, con la mayoría de mis repositorios públicos dedicados a **recursos de formación y educación**. Comparto mis conocimientos a través de [YouTube](https://www.youtube.com/c/10MinutosProgramando) y artículos técnicos.
+Más allá de mi trabajo del día a día, tengo una gran vocación por enseñar. Participo activamente en la comunidad tecnológica y la mayoría de mis repositorios públicos están pensados como recursos educativos. Además, disfruto compartiendo todo lo que voy aprendiendo a través de mi <a href="https://www.youtube.com/c/10MinutosProgramando" target="_blank">canal de YouTube</a> y mis artículos técnicos.
 
 ---
 
@@ -75,9 +75,9 @@ Desarrollo de soluciones basadas en inteligencia artificial y machine learning, 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baxone&theme=nord&show_icons=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baxone&theme=nord&layout=compact&langs_count=8)
+<a href="https://github.com/Baxone" target="_blank">
+  <img src="https://github-stats.com/api?username=Baxone&theme=nord" alt="GitHub Stats" style="max-width: 100%;">
+</a>
 
 </div>
 
@@ -93,7 +93,7 @@ Creo recursos educativos de **alta calidad** enfocados en:
 - 🤖 **Machine Learning & IA** - Modelos y aplicaciones prácticas
 
 ### 📺 Sígueme en YouTube
-Comparto tutoriales, proyectos y tips en mi canal **[10 Minutos Programando](https://www.youtube.com/c/10MinutosProgramando)** donde enfoco el contenido en:
+Comparto tutoriales, proyectos y tips en mi canal **<a href="https://www.youtube.com/c/10MinutosProgramando" target="_blank">10 Minutos Programando</a>** donde enfoco el contenido en:
 - Tutoriales cortos y directos
 - Proyectos prácticos paso a paso
 - Mejores prácticas en desarrollo
@@ -119,18 +119,11 @@ Actualmente trabajo en proyectos que combinan:
 
 **¿Tienes un proyecto interesante o quieres colaborar?**
 
-[![LinkedIn](https://img.shields.io/badge/Conéctate%20en%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/juanantonioperezjarillo)
-[![YouTube](https://img.shields.io/badge/Suscríbete%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/10MinutosProgramando)
-[![Twitter](https://img.shields.io/badge/Sígueme%20en%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/labsdev)
+<a href="https://es.linkedin.com/in/juanantonioperezjarillo" target="_blank"><img src="https://img.shields.io/badge/Conéctate%20en%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.youtube.com/c/10MinutosProgramando" target="_blank"><img src="https://img.shields.io/badge/Suscríbete%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://twitter.com/JLabsdev" target="_blank"><img src="https://img.shields.io/badge/Sígueme%20en%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
 
 </div>
 
 ---
 
-<div align="center">
-
-**Hecho con ❤️ desde Madrid 🇪🇸**
-
-*Último actualizado: Mayo 2026*
-
-</div>
