@@ -1,11 +1,15 @@
-<!-- Header profesional -->
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/537247?v=4" alt="Juan Antonio Pérez Jarillo" width="120" height="120" style="border-radius: 50%;">
+<!-- BANNER APAISADO - sustituye la URL por la ruta de tu imagen subida a GitHub -->
+<img src="https://raw.githubusercontent.com/Baxone/Baxone/main/banner.png" alt="Juan Antonio Pérez Jarillo - Banner" width="100%" style="max-height:320px; object-fit:cover; border-radius:12px;">
+
+
+
+<br/><br/>
 
 # Juan Antonio Pérez Jarillo
 
-### Full Stack Web Developer | Data Science Engineer | AI Engineer
+### Full Stack Web Developer · Data Science Engineer · AI Engineer
 
 <a href="https://es.linkedin.com/in/juanantonioperezjarillo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.youtube.com/c/10MinutosProgramando" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
@@ -26,14 +30,9 @@ Más allá de mi trabajo del día a día, tengo una gran vocación por enseñar.
 
 ## 💡 Áreas de Especialidad
 
-### 🌐 Full Stack Web Development
-Desarrollo de aplicaciones web modernas, escalables y performantes con las últimas tecnologías del ecosistema JavaScript/TypeScript.
-
-### 📊 Data Science & Analytics
-Análisis exploratorio de datos, visualización avanzada y creación de modelos de machine learning con Python.
-
-### 🤖 AI Engineering
-Desarrollo de soluciones basadas en inteligencia artificial y machine learning, desde modelos hasta aplicaciones productivas.
+| 🌐 Full Stack Web | 📊 Data Science | 🤖 AI Engineering |
+|---|---|---|
+| Aplicaciones modernas, escalables y performantes con el ecosistema JS/TS | Análisis exploratorio, visualización avanzada y modelos de ML con Python | Soluciones basadas en IA y ML, desde modelos hasta aplicaciones en producción |
 
 ---
 
@@ -62,7 +61,6 @@ Desarrollo de soluciones basadas en inteligencia artificial y machine learning, 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### 📈 Data Science & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
@@ -71,31 +69,23 @@ Desarrollo de soluciones basadas en inteligencia artificial y machine learning, 
 
 ---
 
-## 📊 Estadísticas & Logros
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baxone&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=false)
+<!-- Racha de contribuciones -->
+<img src="https://streak-stats.demolab.com?user=Baxone&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baxone&theme=tokyonight&layout=compact&hide_border=false)
+<br/><br/>
 
-</div>
+<!-- Resumen de perfil (4 tarjetas) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baxone&theme=tokyonight" alt="Profile Details" width="100%"/>
 
-### 🏆 Especialidades & Experiencia
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Baxone&theme=tokyonight" alt="Repos por lenguaje"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Baxone&theme=tokyonight" alt="Lenguaje más commiteado"/>
 
-<div align="center">
-
-![Full Stack](https://img.shields.io/badge/Full%20Stack%20Developer-15%2B%20años-blue?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science%20Engineer-Expert-green?style=for-the-badge)
-![AI Solutions](https://img.shields.io/badge/AI%20Solutions-Advanced-purple?style=for-the-badge)
-
-![JavaScript Expertise](https://img.shields.io/badge/JavaScript%20Expertise-Advanced-F7DF1E?style=flat-square&logo=javascript)
-![Python Expertise](https://img.shields.io/badge/Python%20Expertise-Advanced-3776AB?style=flat-square&logo=python)
-![React Expertise](https://img.shields.io/badge/React%20Expertise-Advanced-61DAFB?style=flat-square&logo=react)
-![Node.js Expertise](https://img.shields.io/badge/Node.js%20Expertise-Advanced-339933?style=flat-square&logo=node.js)
-
-![Active Educator](https://img.shields.io/badge/Active%20Educator-Community-red?style=flat-square)
-![Open Source Contributor](https://img.shields.io/badge/Open%20Source%20Contributor-Active-green?style=flat-square)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Baxone&theme=tokyonight" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Baxone&theme=tokyonight&utcOffset=1" alt="Horas productivas"/>
 
 </div>
 
@@ -105,29 +95,16 @@ Desarrollo de soluciones basadas en inteligencia artificial y machine learning, 
 
 Creo recursos educativos de **alta calidad** enfocados en:
 
-- 🎓 **Fundamentos de Programación** - JavaScript, Python, PHP
-- 🌐 **Desarrollo Web Full Stack** - Arquitectura, patrones y buenas prácticas
-- 📊 **Data Science & Analytics** - Análisis de datos y visualización
-- 🤖 **Machine Learning & IA** - Modelos y aplicaciones prácticas
+- 🎓 **Fundamentos de Programación** — JavaScript, Python, PHP
+- 🌐 **Desarrollo Web Full Stack** — Arquitectura, patrones y buenas prácticas
+- 📊 **Data Science & Analytics** — Análisis de datos y visualización
+- 🤖 **Machine Learning & IA** — Modelos y aplicaciones prácticas
 
-### 📺 Sígueme en YouTube
-Comparto tutoriales, proyectos y tips en mi canal **<a href="https://www.youtube.com/c/10MinutosProgramando" target="_blank">10 Minutos Programando</a>** donde enfoco el contenido en:
-- Tutoriales cortos y directos
-- Proyectos prácticos paso a paso
-- Mejores prácticas en desarrollo
-- Tendencias y herramientas nuevas
+### 📺 Canal de YouTube — [10 Minutos Programando](https://www.youtube.com/c/10MinutosProgramando)
+
+Tutoriales cortos y directos · Proyectos prácticos paso a paso · Mejores prácticas · Tendencias y herramientas
 
 Todos mis repositorios públicos incluyen **documentación completa** y **código bien comentado** para facilitar el aprendizaje.
-
----
-
-## 🎯 Últimas Actividades
-
-Actualmente trabajo en proyectos que combinan:
-- **Aplicaciones web modernas** con arquitecturas escalables
-- **Análisis de datos** y visualización de insights
-- **Soluciones con IA** aplicadas a problemas reales
-- **Contenido educativo** para la comunidad
 
 ---
 
@@ -144,4 +121,3 @@ Actualmente trabajo en proyectos que combinan:
 </div>
 
 ---
-
